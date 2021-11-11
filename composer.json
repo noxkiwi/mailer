@@ -1,0 +1,40 @@
+{
+  "name": "noxkiwi/mailer",
+  "description": "I am the mailer application.",
+  "version": "1.0.0",
+  "type": "package",
+  "license": "proprietary",
+  "keywords": [
+    "Mailer",
+    "PHPMailer",
+    "Queue Mailer",
+    "Email",
+    "Delivery",
+    "Queue"
+  ],
+  "homepage": "https://nox.kiwi/",
+  "time": "2016-01-05",
+  "authors": [
+    {
+      "name": "Jan Nox",
+      "email": "jan@nox.kiwi",
+      "homepage": "https://nox.kiwi",
+      "role": "Lead Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0.0",
+    "noxkiwi/queue": "*",
+    "noxkiwi/core": "*",
+    "noxkiwi/singleton": "*",
+    "phpmailer/phpmailer": "~5.2"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "noxkiwi\\mailer\\": "backend/class/"
+    }
+  }
+}
