@@ -9,7 +9,7 @@ use noxkiwi\mailer\Queue\MailerQueue;
  * I am the Mailer that sends a mail directly into a Queue.
  *
  * @package      noxkiwi\mailer\Mailer
- * @author       Jan Nox <jan@nox.kiwi>
+ * @author       Jan Nox <jan.nox@pm.me>
  * @license      https://nox.kiwi/license
  * @copyright    2020 noxkiwi
  * @version      1.0.0

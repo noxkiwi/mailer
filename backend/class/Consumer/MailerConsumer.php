@@ -13,7 +13,7 @@ use const E_USER_NOTICE;
  * I am the Consumer for sending email messages.
  *
  * @package      noxkiwi\mailer\Consumer
- * @author       Jan Nox <jan@nox.kiwi>
+ * @author       Jan Nox <jan.nox@pm.me>
  * @license      https://nox.kiwi/license
  * @copyright    2020 noxkiwi
  * @version      1.0.0
