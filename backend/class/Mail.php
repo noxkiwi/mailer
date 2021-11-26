@@ -8,7 +8,7 @@ use noxkiwi\core\Helper\FrontendHelper;
  * I am an arbitrary mail.
  *
  * @package      noxkiwi\mailer
- * @author       Jan Nox <jan@nox.kiwi>
+ * @author       Jan Nox <jan.nox@pm.me>
  * @license      https://nox.kiwi/license
  * @copyright    2020 noxkiwi
  * @version      1.0.0

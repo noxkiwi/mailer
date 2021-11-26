@@ -8,7 +8,7 @@ use noxkiwi\singleton\Singleton;
  * I am the basic mailer class.
  *
  * @package      noxkiwi\mailer
- * @author       Jan Nox <jan@nox.kiwi>
+ * @author       Jan Nox <jan.nox@pm.me>
  * @license      https://nox.kiwi/license
  * @copyright    2016 - 2018 noxkiwi
  * @version      1.0.1

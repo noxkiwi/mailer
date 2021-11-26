@@ -7,7 +7,7 @@ use noxkiwi\mailer\Mailer;
  * I am
  *
  * @package      noxkiwi\mailer\Interfaces
- * @author       Jan Nox <jan@nox.kiwi>
+ * @author       Jan Nox <jan.nox@pm.me>
  * @license      https://nox.kiwi/license
  * @copyright    2020 noxkiwi
  * @version      1.0.0
