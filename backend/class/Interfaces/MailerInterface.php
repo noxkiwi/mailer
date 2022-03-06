@@ -143,11 +143,4 @@ interface MailerInterface
      * @return       bool
      */
     public function send(): bool;
-
-    /**
-     * Return an error message
-     *
-     * @return       Mailer
-     */
-    public function getError(): Mailer;
 }

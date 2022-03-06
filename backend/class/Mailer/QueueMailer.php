@@ -148,14 +148,6 @@ final class QueueMailer extends Mailer
     /**
      * @inheritDoc
      */
-    public function getError(): Mailer
-    {
-        return $this;
-    }
-
-    /**
-     * @inheritDoc
-     */
     public function setAltbody(string $altbody): Mailer
     {
         return $this;

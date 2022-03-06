@@ -120,14 +120,6 @@ final class PhpmailerMailer extends Mailer
     }
 
     /**
-     * {@inheritDoc}
-     */
-    public function getError(): Mailer
-    {
-        return $this->client->ErrorInfo;
-    }
-
-    /**
      * @inheritDoc
      */
     public function setTo(array $emails): Mailer
