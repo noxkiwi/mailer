@@ -2,7 +2,6 @@
 namespace noxkiwi\mailer\Mailer;
 
 use noxkiwi\mailer\Mailer;
-use function trait_exists;
 
 /**
  * I am
@@ -117,14 +116,6 @@ final class PhpmailerMailer extends Mailer
     public function send(): bool
     {
         return (bool)$this->client->send();
-    }
-
-    /**
-     * {@inheritDoc}
-     */
-    public function getError(): Mailer
-    {
-        return $this->client->ErrorInfo;
     }
 
     /**
